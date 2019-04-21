@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 10
+  controlID: 72
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 40
+  controlID: 53
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 41
+  controlID: 54
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -363,20 +363,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\lukic\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\WSR_Game_Traffic"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 320a0000
-    m_LastClickedID: 2610
-    m_ExpandedIDs: 0000000070090000e009000000ca9a3b
+    m_SelectedIDs: 560a0000
+    m_LastClickedID: 2646
+    m_ExpandedIDs: 0000000074090000e809000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +404,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000070090000e0090000
+    m_ExpandedIDs: 0000000074090000e8090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,21 +525,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 48defdff52defdff60defdff6adefdff1010feffac19feff5e20fefff827feff142dfeffe832feff7a37feff5641feff0e4bfeff3473feffc6c0feff76fdfeff80fdfeff8afdfeffc2c1ffffdeccffff22cfffff58cfffff5ad1ffff90d1ffff9ad1ffff7cd2ffff86d2ffff90d2ffffcad2fffff6dbffff34dcffff3edcffff60dcffff8cdcffffc6dcffffeedcffff38ddffff42ddffff7cddffff9cddffff20deffff52deffff8cdeffffaedeffff00dfffff22dfffff74dfffff90dfffffe2dfffff1ae0fffffcefffffa4f9ffffd6fbffffb4490000d45000005452000010530000425700005c5700007a57000004b800001eb80000
+      m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Dirt
-        m_OriginalName: Dirt
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -112086
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -622,7 +622,7 @@ MonoBehaviour:
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.07709845, y: 0.25375983, z: -0.020295668, w: 0.9639761}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
